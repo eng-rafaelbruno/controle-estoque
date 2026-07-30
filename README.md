@@ -100,6 +100,4 @@ Este projeto faz parte dos meus estudos em desenvolvimento de software e tem com
 **Rafael Bruno**
 
 - GitHub: https://github.com/eng-rafaelbruno
-
 ---
-
