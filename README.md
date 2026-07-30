@@ -12,7 +12,7 @@ Aplicação CRUD desenvolvida em Python para gerenciamento de estoque por meio d
 
 ## Tecnologias
 
-- Python 3
+- Python 3.10 ou superior
 
 ## Como executar
 
