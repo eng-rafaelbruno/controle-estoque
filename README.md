@@ -103,4 +103,3 @@ Este projeto faz parte dos meus estudos em desenvolvimento de software e tem com
 
 ---
 
-⭐ Se este projeto foi útil ou interessante, deixe uma estrela no repositório!
